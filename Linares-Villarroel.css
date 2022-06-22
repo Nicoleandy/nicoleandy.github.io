@@ -1,0 +1,26 @@
+body{
+    background-color: #CC9D85;
+    text-align: center;
+    
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    box-shadow: 10px 10px 10px white;
+}
+
+p{
+    font-family: 'Satisfy', cursive;
+    font-size: 30px;
+    color: white;
+}
+
+.nombres{
+    font-family: 'Courgette', cursive;
+}
+
+.mante{
+    font-family: 'Courgette', cursive;
+    font-size: 30px;
+}

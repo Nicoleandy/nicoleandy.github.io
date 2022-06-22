@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: #B3D7FF;
+}
+
+h1 {
+    font-family: 'Carter One', cursive;
+}
+
+b{
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 35px;
+    background-color: #FFC9EB;
+}
+
+p{
+   font-family: 'Itim', cursive;
+   font-size: 35px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    box-shadow: 10px 5px 5px 5px #6876FE;
+}
